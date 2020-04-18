@@ -1,0 +1,252 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ .center {
+     width: 800px;
+     padding: 10px;
+     margin: 0 auto;
+
+ }
+.top {
+    background: #fdecf6 url('img/Photo.png') no-repeat center / cover;
+    background-position: center;
+
+    padding: 190px 0 58px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.Head {
+    max width: 735px;
+    margin: 0 auto;
+    display: flex;
+    flex wrap: wrap;
+    text-align: center;
+    
+}
+
+.Head h1 {
+    margin-right: auto;
+    padding-top: 90px;
+
+    font-family: 'Zhi Mang Xing', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 72px;
+    text-align: center;
+    color: #222222;
+}
+
+.Heading h1 {
+    font-family: 'Zhi Mang Xing', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 64px;
+    color: #222222;
+    width: 396px ;
+    margin:auto;
+    padding-top: 135px;
+    padding-bottom: 85px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    text-align: center;
+    
+}
+
+.profession p {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #939393;
+    margin-bottom: auto;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.Who {
+    width: 735px;
+    align-items: center;
+    padding-top: 170px;
+    padding-left: 100px;
+
+}
+
+.Who h2 {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.work {
+    background: url(img/Pinkline.png) no-repeat 0 / cover;
+    width: 1440 px;
+    height: 898 px;
+}
+
+.sans_h5 {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+.sans {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff;
+}
+.paragraf p {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #222222;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.dawn {
+    width: 1440;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 65px;
+}
+
+.dawn p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #222222;
+}
+
+.skills {
+    background-image: url(img/Cascad.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #222222;
+    width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.skills_wrapper {
+    width: 753px;
+    margin-right: 352px;
+    margin-left: 335px;
+    margin-top: 108px;
+    margin-bottom: 48px ;
+}
+.skill__item {
+    width: 343px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #222222;
+
+}
+span {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #222222;
+}
+
+.subtittle p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #222222;
+    padding-top: 10px;
+}
+
+.wrapper__contacts {
+    max width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact__item {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 12px;
+}
+
+.contact__item p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #222222;
+}
+
+.contact__heading {
+    width: 144px;
+
+    padding: 7px 0;
+
+    text-align: center;
+    background: #FCE8F4;
+    border-radius: 40px;
+    padding: 15 25;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+a {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #222222;
+    text-decoration: none;
+    width: 185px;
+    padding-left: 22px;
+    padding-top: 7px;
+}
